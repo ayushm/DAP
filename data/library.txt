@@ -1,0 +1,240 @@
+C024,CD,LIVE AT THE APOLLO (1962),BROWN,Mar-91
+C023,CD,INNERVISIONS (RMST),WONDER,Apr-81
+C020,CD,THRILLER (SL)2,JACKSON,Jul-99
+C027,CD,KING OF DELTA BLUES SINGERS (BONUS TRACK),JOHNSON,Apr-60
+C028,CD,WHO'S NEXT (GOLD),WHO,May-94
+C035,CD,RISE & FALL OF ZIGGY STARDUST & SPIDERS MARS (ENH),BOWIE,Jun-79
+C034,CD,MUSIC FROM BIG PINK (RMST),BAND,May-64
+C033,CD,RAMONES (DLX),RAMONES,Apr-50
+C032,CD,LET IT BLEED (HYBR),ROLLING,Feb-01
+C031,CD,BRINGING IT ALL BACK (HYBR),DYLAN,Apr-94
+C030,CD,BLUE,MITCHELL,Jul-46
+C038,CD,ANTHOLOGY: 1947-1972 (RMST),WATERS,Jan-41
+C039,CD,PLEASE PLEASE ME,BEATLES,Apr-91
+C036,CD,TAPESTRY (RMST),KING,Jul-98
+C037,CD,HOTEL CALIFORNIA,EAGLES,Mar-59
+C002,CD,PET SOUNDS,BEACH,May-72
+C001,CD,SGT PEPPER'S LONELY HEARTS CLUB BAND,BEATLES,Apr-94
+C003,CD,REVOLVER,BEATLES,Jun-74
+C004,CD,HIGHWAY 61 REVISITED (HYBR),DYLAN,Jul-94
+C006,CD,WHAT'S GOING ON (BONUS TRACKS) (RMST),GAYE,Jan-57
+C007,CD,EXILE ON MAIN STREET,ROLLING,Apr-93
+C008,CD,LONDON CALLING (RMST),CLASH,Mar-12
+C009,CD,BLONDE ON BLONDE (HYBR),DYLAN,Apr-75
+C012,CD,KIND OF BLUE (BONUS TRACK) (RMST),DAVIS,May-99
+C011,CD,SUNRISE,PRESLEY,Apr-80
+C010,CD,WHITE ALBUM,BEATLES,Feb-12
+C016,CD,BLOOD ON THE TRACKS (HYBR),DYLAN,Feb-90
+C017,CD,NEVERMIND,NIRVANA,Apr-77
+C014,CD,ABBEY ROAD,BEATLES,Jul-54
+C015,CD,ARE YOU EXPERIENCED,HENDRIX,Apr-12
+C018,CD,BORN TO RUN,SPRINGSTEEN,May-12
+C019,CD,ASTRAL WEEKS,MORRISON,Jun-42
+C065,CD,STRANGER (RMST) (ENH),JOEL,Apr-12
+C089,CD,GREATEST HITS (RMST),HOLLY,Apr-91
+C066,CD,OFF THE WALL (BONUS TRACKS) (RMST) (SPEC),JACKSON,Feb-90
+B0068,BOOK,Rights of Man,Thomas Paine,May-12
+C067,CD,SUPERFLY - O.S.T.,MAYFIELD,Apr-77
+C087,CD,DUSTY IN MEMPHIS (RMST),SPRINGFIELD,Mar-59
+B0069,BOOK,Tales of Mystery & Imagination,Edgar Allan Poe,Jun-42
+C068,CD,PHYSICAL GRAFFITI (RMST),LED,May-12
+C088,CD,GOODBYE YELLOW BRICK ROAD (RMST),JOHN,Jan-41
+C061,CD,STICKY FINGERS,ROLLING,Apr-80
+C085,CD,WALL (RMST),PINK,Jun-79
+B0066,BOOK,Moby Dick,Herman Melville,Feb-90
+B0067,BOOK,Utopia,Thomas More,Apr-77
+C086,CD,AT FOLSOM PRISON (EXP),CASH,Jul-98
+C062,CD,PHIL SPECTOR: BACK TO MONO [BOX] / VARIOUS,PHIL,May-99
+B0064,BOOK,The Princess and the Goblin,George MacDonald,Jul-54
+C063,CD,MOONDANCE,MORRISON,Jun-12
+C083,CD,BORN IN THE USA,SPRINGSTEEN,Apr-50
+C084,CD,LET IT BE,BEATLES,May-64
+C064,CD,ZOSO (RMST),LED,Jul-54
+B0065,BOOK,The Prince,Niccol Machiavelli,Apr-12
+C081,CD,I NEVER LOVED A MAN THE WAY I LOVE YOU,FRANKLIN,Apr-94
+C082,CD,LADY SOUL,FRANKLIN,Feb-00
+C080,CD,AXIS: BOLD AS LOVE,HENDRIX,Jul-46
+C060,CD,ACHTUNG BABY,U2,Feb-12
+B0074,BOOK,King Lear,William Shakespeare,Mar-91
+B0073,BOOK,Hamlet,William Shakespeare,Apr-81
+B0072,BOOK,Black Beauty,Anna Sewell,Jan-54
+B0071,BOOK,Waverley,Sir Walter Scott,Mar-68
+B0070,BOOK,Ivanhoe,Sir Walter Scott,Jul-99
+C069,CD,AFTER THE GOLD RUSH,YOUNG,Jun-42
+C078,CD,ODYSSEY & ORACLE,ZOMBIES,May-94
+B0079,BOOK,The Taming of the Shrew,William Shakespeare,Jun-12
+C079,CD,GRACELAND (ENH),SIMON,Jun-12
+C076,CD,HARVEST,YOUNG,Feb-95
+C077,CD,STAR TIME (BOX),BROWN,Apr-60
+C074,CD,IMAGINE (RMST),LENNON,Mar-91
+B0075,BOOK,MacBeth,William Shakespeare,Apr-95
+C094,CD,FREEWHEELIN BOB DYLAN (HYBR),DYLAN,May-79
+C075,CD,CLASH: UK VERSION (RMST),CLASH,Apr-95
+B0076,BOOK,A Midsummer Night's Dream,William Shakespeare,Feb-95
+C095,CD,THIS YEAR'S MODEL (BONUS CD) (RMST),COSTELLO,Jun-12
+C072,CD,OTIS BLUE: SINGS SOUL,REDDING,Jan-54
+C096,CD,THERE'S A RIOT GOIN ON,SLY,Jul-12
+C073,CD,LED ZEPPELIN 2 (RMST),LED,Apr-81
+B0078,BOOK,Romeo and Juliet,William Shakespeare,May-94
+C097,CD,IN THE WEE SMALL HOURS (RMST),SINATRA,Apr-58
+C090,CD,SIGN O THE TIMES,PRINCE,Mar-99
+C070,CD,PURPLE RAIN,PRINCE,Jul-99
+C091,CD,BITCHES BREW (RMST),DAVIS,Apr-98
+C071,CD,BACK IN BLACK (RMST) (DLX),AC/DC,Mar-68
+C092,CD,GREEN RIVER,CCR,Feb-12
+C093,CD,TOMMY (RMST),WHO,Apr-76
+B0083,BOOK,Kidnapped,Robert Louis Stevenson,Apr-50
+B0082,BOOK,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,Feb-00
+B0085,BOOK,Uncle Tom's Cabin,Harriet Beecher Stowe,Jun-79
+B0084,BOOK,Dracula,Bram Stoker,May-64
+B0081,BOOK,Frankenstein,Mary Shelley,Apr-94
+B0080,BOOK,The Tempest,William Shakespeare,Apr-56
+B0088,BOOK,Walden,Henry David Thoreau,Jan-41
+B0089,BOOK,Anna Karenina,Leo Tolstoy,Apr-91
+C040,CD,FOREVER CHANGES (BONUS TRACKS) (RMST),LOVE,Mar-99
+C041,CD,NEVER MIND THE BOLLOCKS,SEX,Apr-98
+B0086,BOOK,Gulliver's Travels,Jonathan Swift,Jul-98
+B0087,BOOK,Vanity Fair,William Makepeace Thackeray,Mar-59
+C042,CD,DOORS,DOORS,Feb-12
+C043,CD,HORSES (RMST),SMITH,Apr-76
+C044,CD,BAND (RMST),BAND,May-79
+C045,CD,LEGEND: BEST OF,MARLEY,Jun-12
+C046,CD,LOVE SUPREME (RMST),COLTRANE,Jul-12
+B0092,BOOK,The Adventures of Huckleberry Finn,Mark Twain,Feb-12
+C048,CD,LIVE AT FILLMORE EAST (RMST),ALLMAN,Feb-80
+B0091,BOOK,Barchester Towers,Anthony Trollope,Apr-98
+C047,CD,IT TAKES A NATION OF MILLIONS,PUBLIC,Apr-58
+B0090,BOOK,War and Peace,Leo Tolstoy,Mar-99
+C049,CD,GEORGIA PEACH,LITTLE,Apr-57
+B0095,BOOK,Journey to the Center of the Earth,Jules Verne,Jun-12
+B0094,BOOK,A Connecticut Yankee in King Arthur's Court,Mark Twain,May-79
+B0093,BOOK,The Adventures of Tom Sawyer,Mark Twain,Apr-76
+B0097,BOOK,The Time Machine,H.G. Wells,Apr-58
+C052,CD,BIRTH OF SOUL: THE COMPLETE ATLANTIC R & B '52-'59,CHARLES,May-72
+B0098,BOOK,The Age of Innocence,Edith Wharton,Feb-12
+C053,CD,ELECTRIC LADYLAND,HENDRIX,Jun-74
+B0099,BOOK,The Importance of Being Earnest,Oscar Wilde,Apr-76
+C050,CD,BRIDGE OVER TROUBLED WATER (EXP),SIMON,May-12
+C051,CD,GREATEST HITS,GREEN,Apr-94
+C056,CD,BEGGARS BANQUET (HYBR),ROLLING,Jan-57
+C057,CD,TROUT MASK REPLICA,CAPTAIN,Apr-93
+C054,CD,ELVIS PRESLEY (1ST ALBUM) (W/BONUS) (RMST),PRESLEY,Jul-94
+C055,CD,SONGS IN THE KEY OF LIFE (RMST),WONDER,Mar-66
+C059,CD,APPETITE FOR DESTRUCTION,GUNS,Apr-75
+C058,CD,GREATEST HITS,SLY,Mar-12
+B0062,BOOK,White Fang,Jack London,May-99
+B0063,BOOK,The Princess and Curdie,George MacDonald,Jun-12
+B0060,BOOK,The Phantom of the Opera,Gaston Leroux,Feb-12
+B0061,BOOK,The Call of the Wild,Jack London,Apr-80
+B0059,BOOK,The Man Who Would Be King,Rudyard Kipling,Apr-75
+B0058,BOOK,Kim,Rudyard Kipling,Mar-12
+B0057,BOOK,The Jungle Book,Rudyard Kipling,Apr-93
+B0056,BOOK,The Turn of the Screw,Henry James,Jan-57
+B0055,BOOK,The Aspern Papers,Henry James,Mar-66
+B0054,BOOK,The Sketch Book of Geoffrey Crayon,Washington Irving,Jul-94
+B0053,BOOK,Les Mis‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö‚à´‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚àû¬¨¬®¬¨¬Æ¬¨¬®¬¨√Ü‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚Äö√¢¬ß‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö‚Ä†‚àö√°‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚àû¬¨¬®¬¨¬Æ¬¨¬®¬¨√Ü‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö‚Ä†‚àö√°‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚àû¬¨¬®¬¨¬Æ¬¨¬®¬¨√Ü‚Äö√¢√†‚àö‚â†¬¨¬®¬¨¬©rables,Victor Hugo,Jun-74
+D0045,BRD,Spirited Away ,United Studios,Jun-01
+D0047,BRD,Vertigo ,Warner Bros,Apr-58
+D0046,BRD,City Lights ,Warner Bros,Jul-31
+D0041,BRD,Saving Private Ryan 3,United Studios,Apr-98
+D0040,BRD,American Beauty ,21st Century Fox,Mar-99
+D0043,BRD,Taxi Driver ,20th Century Fox,Apr-76
+D0042,BRD,Toy Story 3 ,20th Century Fox,Feb-10
+B0050,BOOK,The Odyssey,Homer,May-12
+B0051,BOOK,The Prisoner of Zenda,Anthony Hope,Apr-94
+B0052,BOOK,The Hunchback of Notre-Dame,Victor Hugo,May-72
+D0049,BRD,Paths of Glory ,United Studios,Apr-57
+D0048,BRD,The Shining ,First Line Cinema,Feb-80
+D020,CD,THRILLER (SL)2,JACKSON,Jul-99
+B0047,BOOK,Tanglewood Tales for Girls and Boys,Nathaniel Hawthorne,Apr-58
+B0046,BOOK,The Scarlet Letter,Nathaniel Hawthorne,Jul-12
+B0049,BOOK,The Four Million,O. Henry,Apr-57
+B0048,BOOK,A Wonder-Book for Girls and Boys,Nathaniel Hawthorne,Feb-80
+B0043,BOOK,King Solomon's Mines,Henry Rider Haggard,Apr-76
+B0042,BOOK,Allan Quatermain,Henry Rider Haggard,Feb-12
+B0045,BOOK,Tess of the D'Urbervilles,Thomas Hardy,Jun-12
+B0044,BOOK,Far from the Madding Crowd,Thomas Hardy,May-79
+D0050,BRD,M ,20th Century Fox,May-31
+D0032,BRD,Memento ,United Studios,Feb-00
+D0031,BRD,Leon: The Professional ,United Studios,Apr-94
+D0030,BRD,It's a Wonderful Life ,Warner Bros,Jul-46
+D0036,BRD,American History X ,United Studios,Jul-98
+D0035,BRD,Apocalypse Now ,Warner Bros,Jun-79
+D0034,BRD,Dr. Strangelove ,20th Century Fox,May-64
+D0033,BRD,Sunset Blvd. ,20th Century Fox,Apr-50
+D0039,BRD,Terminator 2: Judgment Day ,First Line Cinema,Apr-91
+D0038,BRD,Citizen Kane ,Warner Bros,Jan-41
+D0037,BRD,North by Northwest ,Warner Bros,Mar-59
+B0040,BOOK,Silas Marner,George Eliot,Mar-99
+B0041,BOOK,The Diary of a Nobody,George Grossmith and Weedon Grossmith,Apr-98
+B0034,BOOK,Crime and Punishment,Fyodor Dostoyevsky,May-64
+B0033,BOOK,The Brothers Karamazov,Fyodor Dostoyevsky,Apr-50
+B0032,BOOK,A Tale of Two Cities,Charles Dickens,Feb-00
+B0031,BOOK,Oliver Twist,Charles Dickens,Apr-94
+B0038,BOOK,The Man in the Iron Mask,Alexandre Dumas,Jan-41
+B0037,BOOK,The Count of Monte Cristo,Alexandre Dumas,Mar-59
+B0036,BOOK,The Hound of the Baskervilles,Arthur Conan Doyle,Jul-98
+B0035,BOOK,The Adventures of Sherlock Holmes,Arthur Conan Doyle,Jun-79
+B0039,BOOK,Middlemarch,George Eliot,Apr-91
+D0021,DVD,Once Upon a Time in the West ,Warner Bros,Mar-68
+D0020,DVD,The Matrix ,20th Century Fox,Jul-99
+D0023,DVD,Raiders of the Lost Ark ,Warner Bros,Apr-81
+D0022,DVD,Rear Window ,United Studios,Jan-54
+D0025,DVD,The Usual Suspects ,First Line Cinema,Apr-95
+D0024,DVD,The Silence of the Lambs ,Warner Bros,Mar-91
+D0027,BRD,Psycho ,United Studios,Apr-60
+D0026,BRD,Se7en ,21st Century Fox,Feb-95
+D0029,BRD,The Lord of the Rings: The Two Towers ,20th Century Fox,Jun-02
+D0028,BRD,Forrest Gump ,20th Century Fox,May-94
+B0030,BOOK,Great Expectations,Charles Dickens,Jul-46
+B0021,BOOK,Lord Jim,Joseph Conrad,Mar-68
+B0020,BOOK,Heart of Darkness,Joseph Conrad,Jul-99
+B0023,BOOK,The Last of the Mohicans,James Fenimore Cooper,Apr-81
+B0022,BOOK,The Deerslayer,James Fenimore Cooper,Jan-54
+B0025,BOOK,The Fortunes and Misfortunes of the Famous Moll Flanders,Daniel Defoe,Apr-95
+B0024,BOOK,The Red Badge of Courage,Stephen Crane,Mar-91
+B0027,BOOK,Bleak House,Charles Dickens,Apr-60
+B0026,BOOK,Robinson Crusoe,Daniel Defoe,Feb-95
+B0029,BOOK,David Copperfield,Charles Dickens,Jun-12
+B0028,BOOK,A Christmas Carol,Charles Dickens,May-94
+D0019,DVD,Casablanca ,20th Century Fox,Jun-42
+D0017,DVD,Star Wars: Episode IV - A New Hope ,First Line Cinema,Apr-77
+D0018,DVD,City of God ,United Studios,May-02
+D0015,DVD,The Lord of the Rings: The Fellowship of the Ring ,Warner Bros,Apr-01
+D0016,DVD,Goodfellas ,Warner Bros,Feb-90
+B001,BOOK,Harry Potter and the Sorceror's Stone,JK Rowling,May-94
+D0013,DVD,Inception ,Warner Bros,Jun-10
+D0014,DVD,Seven Samurai ,United Studios,Jul-54
+D0011,DVD,Star Wars: Episode V - The Empire Strikes Back ,20th Century Fox,Apr-80
+D0012,DVD,Fight Club ,20th Century Fox,May-99
+D0010,DVD,The Lord of the Rings: The Return of the King ,United Studios,Feb-03
+B0019,BOOK,The Woman in White,Wilkie Collins,Jun-42
+B0017,BOOK,The Awakening,Kate Chopin,Apr-77
+B0018,BOOK,The Moonstone,Wilkie Collins,May-12
+B0015,BOOK,The Man Who Was Thursday,G.K. Chesterton,Apr-12
+B0016,BOOK,The Napoleon of Notting Hill,G.K. Chesterton,Feb-90
+B0013,BOOK,Through the Looking-Glass,Lewis Carroll,Jun-12
+B0014,BOOK,Don Quixote of La Mancha,Miguel de Cervantes Saavedra,Jul-54
+B0011,BOOK,Tales from the Arabian Nights,Richard Francis Burton,Apr-80
+B0012,BOOK,Alice's Adventures in Wonderland,Lewis Carroll,May-99
+B0010,BOOK,The Secret Garden,Frances Hodgson Burnett,Feb-12
+D0008,DVD,The Dark Knight ,First Line Cinema,Mar-08
+D0009,DVD,One Flew Over the Cuckoo's Nest ,20th Century Fox,Apr-75
+D0004,DVD,Pulp Fiction ,Warner Bros,Jul-94
+D0005,DVD,The Good  the Bad and the Ugly ,United Studios,Mar-66
+D0006,DVD,12 Angry Men ,Warner Bros,Jan-57
+D0007,DVD,Schindler's List ,Warner Bros,Apr-93
+D0001,DVD,The Shawshank Redemption ,United Studios,Apr-94
+D0002,DVD,The Godfather ,20th Century Fox,May-72
+D0003,DVD,The Godfather: Part II ,20th Century Fox,Jun-74
+B0100,BOOK,The Picture of Dorian Gray,Oscar Wilde,May-79
+B0006,BOOK,Lorna Doone,R. D. Blackmore,Jan-57
+B0007,BOOK,Jane Eyre,Charlotte Bront,Apr-93
+B0008,BOOK,Wuthering Heights,Emily Bront,Mar-12
+B0009,BOOK,Little Lord Fauntleroy,Frances Hodgson Burnett,Apr-75
+B0002,BOOK,Emma,Jane Austen,May-72
+B0003,BOOK,Pride and Prejudice,Jane Austen,Jun-74
+B0004,BOOK,Sense and Sensibility,Jane Austen,Jul-94
+B0005,BOOK,The Wonderful Wizard of Oz,L. Frank Baum,Mar-66
+B0001,BOOK,Little Women,Louisa May Alcott,Apr-94
+C0244,CD,THRILLER (SL)2,JACKSON,Jul-99

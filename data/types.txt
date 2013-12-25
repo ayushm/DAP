@@ -1,0 +1,7 @@
+CD,Compact Disk
+BOOKA,Audio Books
+BRD,Blue Ray Disk
+BOOKF,Books Fictional
+BOOK,Books General Category
+BOOKNF,Books Non Fictional
+DVD,Digital Video Disk
